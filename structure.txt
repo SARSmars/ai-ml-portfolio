@@ -1,0 +1,17 @@
+AI-ML-Portfolio/
+│
+├── README.md
+├── projects/
+│   ├── project1/
+│   │   ├── data/
+│   │   ├── code/
+│   │   ├── models/
+│   │   ├── results/
+│   │   └── README.md
+│   ├── project2/
+│   │   └── ...
+│   └── ...
+├── assets/
+│   ├── images/
+│   └── gifs/
+└── LICENSE
